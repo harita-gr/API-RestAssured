@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4538" started-at="2020-05-03T18:16:10 IST" finished-at="2020-05-03T18:16:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4538" started-at="2020-05-03T18:16:10 IST" finished-at="2020-05-03T18:16:14 IST">
+      <class name="api.RestAssured.Test02_POST">
+        <test-method status="PASS" signature="test_02()[pri:0, instance:api.RestAssured.Test02_POST@9660f4e]" name="test_02" duration-ms="4464" started-at="2020-05-03T18:16:10 IST" finished-at="2020-05-03T18:16:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02 -->
+      </class> <!-- api.RestAssured.Test02_POST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
